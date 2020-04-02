@@ -1,0 +1,33 @@
+[
+    {
+      "type": "new Element",
+      "ports": {
+        "port1": {
+          "id": "port1",
+          "type": "left",
+          "properties": {
+            "custom": "property",
+            "value": "yes"
+          }
+        },
+        "port2": {
+          "id": "port2",
+          "type": "right",
+          "properties": {
+            "custom": "property",
+            "value": "yes"
+          }
+        }
+      },
+      "properties": {
+        "name": {
+          "type": "text",
+          "value": "Hi there!"
+        },
+        "number": {
+          "type": "number",
+          "value": 1444423
+        }
+      }
+    }
+  ]
